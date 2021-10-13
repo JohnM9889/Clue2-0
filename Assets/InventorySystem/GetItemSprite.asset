@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: GetItemSprite
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[{"hasDefaultValue":false,"defaultValue":null,"_type":"UnityEngine.GameObject","key":"object","label":null,"summary":null,"hideLabel":false}],"valueOutputDefinitions":[{"_type":"UnityEngine.Sprite","key":"Sprite","label":null,"summary":null,"hideLabel":false}],"title":"GetItemSprite","summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":-250.0,"y":-30.0},"guid":"1aaa257a-bdfa-48a2-9606-e86c65cd9d5a","$version":"A","$type":"Bolt.GraphInput","$id":"11"},{"defaultValues":{},"position":{"x":105.0,"y":-30.0},"guid":"32d24c03-f37a-472f-badd-006acd3fc872","$version":"A","$type":"Bolt.GraphOutput","$id":"13"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Sprite","$type":"System.String"},"object":null},"position":{"x":-97.0,"y":-53.0},"guid":"5a4f4600-5806-4b5d-bdc6-7d6df3bfb61a","$version":"A","$type":"Bolt.GetVariable","$id":"15"},{"sourceUnit":{"$ref":"11"},"sourceKey":"object","destinationUnit":{"$ref":"15"},"destinationKey":"object","guid":"0a7b9ee8-a054-4efe-934c-16f7021c8350","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"value","destinationUnit":{"$ref":"13"},"destinationKey":"Sprite","guid":"e98e6d55-d684-42b3-bddf-04e42df48a42","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

@@ -361,7 +361,6 @@ GameObject:
   - component: {fileID: 1586401779765366560}
   - component: {fileID: 1586401779765366561}
   - component: {fileID: 1586401779765366562}
-  - component: {fileID: 1586401779765366563}
   - component: {fileID: 1586401779765366564}
   m_Layer: 7
   m_Name: DoorVisual
@@ -411,7 +410,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 301632e21e714fd4cbf03ae56b8f04ba, type: 2}
+  - {fileID: 2100000, guid: 12e13c70a88f26f4cb3ec2864c0631b2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -446,24 +445,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &1586401779765366563
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1586401779765366566}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  outlineMode: 1
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
-  outlineWidth: 2
-  precomputeOutline: 0
-  bakeKeys: []
-  bakeValues: []
 --- !u!95 &1586401779765366564
 Animator:
   serializedVersion: 3

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.0039957035, g: 0.00021792634, b: 0.000000051515347, a: 1}
+  m_IndirectSpecularColor: {r: 0.003995703, g: 0.00021792634, b: 0.000000051515347, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1648,6 +1648,18 @@ PrefabInstance:
       propertyPath: _data._objectReferences.Array.data[17]
       value: 
       objectReference: {fileID: 1475946933}
+    - target: {fileID: 3177944680341099591, guid: c62925419f1613e4bb029ec0024c19b3, type: 3}
+      propertyPath: _data._json
+      value: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3177944680341099591, guid: c62925419f1613e4bb029ec0024c19b3, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3177944680341099591, guid: c62925419f1613e4bb029ec0024c19b3, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 234e4de853f0f7b4898fdd82c34d2b7b, type: 2}
     - target: {fileID: 3177944680349855622, guid: c62925419f1613e4bb029ec0024c19b3, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -4315,7 +4327,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7a1e5e9f38353a744a988183fe28d576, type: 3}
       propertyPath: m_TagString
-      value: Interactive
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a1e5e9f38353a744a988183fe28d576, type: 3}
@@ -10605,7 +10617,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1586401778874195358}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.8, y: 0.14999998, z: 12.56}
+  m_LocalPosition: {x: -0.41, y: 0.14999998, z: 12.56}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1586401778834814296}
@@ -10731,7 +10743,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1586401779460237601}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6, y: 0.14999998, z: -6.24}
+  m_LocalPosition: {x: 1.7900003, y: 0.14999998, z: -6.24}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1586401778834814296}
@@ -11324,7 +11336,7 @@ GameObject:
   - component: {fileID: 8459195891187502143}
   m_Layer: 7
   m_Name: Key
-  m_TagString: Interactive
+  m_TagString: InteractiveMV
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11700,9 +11712,9 @@ GameObject:
   - component: {fileID: 8459195892256618989}
   - component: {fileID: 8459195892256618963}
   - component: {fileID: 8459195892256618962}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: VaseModelViewer
-  m_TagString: Interactive
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -21,8 +21,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Floor 2
-  m_Shader: {fileID: -6465566751694194690, guid: ce16ffdefc585f54bac700e41e77c676, type: 3}
-  m_ShaderKeywords: MAIN_LIGHT_CALCULATE_SHADOWS ADDITIONAL_LIGHT_CALCULATE_SHADOWS
+  m_Shader: {fileID: -6465566751694194690, guid: 5f63bc517d3bfce468f2bb5fbb6aea91, type: 3}
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -32,12 +32,20 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_300EB541:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture2D_37c49701084242a7a354fc50a9b995a9:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_751c89b0fdb046a29db55148e42993af:
         m_Texture: {fileID: 2800000, guid: 78475399b2f04c74a95828e44da0174a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_83fed140c2e74e0e815424e60f257cb3:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_aef1e9470d994ca3834a5c421a04c5ab:
@@ -72,6 +80,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -85,6 +97,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -103,10 +119,15 @@ Material:
     m_Floats:
     - Vector1_040eb07533264d36b18126d0ea59705b: 1
     - Vector1_488a4e1a447d430194da662417b922d7: 0.83
+    - Vector1_499c49b308d843db95820aae35367f15: 0
     - Vector1_537be6389d764421a4f166c095d8b315: 0
     - Vector1_599d2b284a3f42edb7b05920ce5f6f5a: 1
     - Vector1_80032a2cd92a446c908e14c4a01c599d: 3.5
+    - Vector1_8606F96E: 0
     - Vector1_d79f1d9e221f42f48c57f58502fa88fe: 0
+    - Vector1_d8fe560d2d264312847ff3ed83cc7ab7: 0
+    - Vector1_f607d7c091814af2b8034653ae5d8ad9: 0
+    - Vector1_f607d7c091814af2b8034653ae5d8ad9_1: 0
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -123,6 +144,9 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
+    - _OutlineDepthSensitivity: 1
+    - _OutlineNormalsSensitivity: 1
+    - _OutlineThickness: 6
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
@@ -141,5 +165,9 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _MainColor: {r: 0.38470095, g: 0.41257098, b: 0.8584906, a: 0}
+    - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _SpecularColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []

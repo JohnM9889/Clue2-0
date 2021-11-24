@@ -31,15 +31,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        value: 0
-=======
         value: -56
->>>>>>> Stashed changes
-=======
-        value: -56
->>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -104,15 +96,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        value: 0
-=======
         value: -56
->>>>>>> Stashed changes
-=======
-        value: -56
->>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136

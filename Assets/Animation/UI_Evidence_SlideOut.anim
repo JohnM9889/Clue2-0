@@ -22,15 +22,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        value: 0
-=======
         value: -56
->>>>>>> Stashed changes
-=======
-        value: -56
->>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -95,15 +87,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        value: 0
-=======
         value: -56
->>>>>>> Stashed changes
-=======
-        value: -56
->>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136

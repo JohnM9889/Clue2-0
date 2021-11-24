@@ -119,15 +119,15 @@ Material:
     m_Floats:
     - Vector1_040eb07533264d36b18126d0ea59705b: 1
     - Vector1_488a4e1a447d430194da662417b922d7: 0.83
-    - Vector1_499c49b308d843db95820aae35367f15: 0
+    - Vector1_499c49b308d843db95820aae35367f15: 0.001
     - Vector1_537be6389d764421a4f166c095d8b315: 0
     - Vector1_599d2b284a3f42edb7b05920ce5f6f5a: 1
     - Vector1_80032a2cd92a446c908e14c4a01c599d: 3.5
     - Vector1_8606F96E: 0
     - Vector1_d79f1d9e221f42f48c57f58502fa88fe: 1.17
     - Vector1_d8fe560d2d264312847ff3ed83cc7ab7: 10
-    - Vector1_f607d7c091814af2b8034653ae5d8ad9: 10
-    - Vector1_f607d7c091814af2b8034653ae5d8ad9_1: 0
+    - Vector1_f607d7c091814af2b8034653ae5d8ad9: 0.54
+    - Vector1_f607d7c091814af2b8034653ae5d8ad9_1: 0.54
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -145,12 +145,12 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _OutlineDepthSensitivity: 1
-    - _OutlineNormalsSensitivity: 5.67
+    - _OutlineNormalsSensitivity: 5.08
     - _OutlineThickness: 2.98
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.7
+    - _Smoothness: 0.63
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1

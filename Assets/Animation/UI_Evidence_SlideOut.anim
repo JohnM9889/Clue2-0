@@ -23,7 +23,11 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         value: 0
+=======
+        value: -56
+>>>>>>> Stashed changes
 =======
         value: -56
 >>>>>>> Stashed changes
@@ -92,7 +96,11 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         value: 0
+=======
+        value: -56
+>>>>>>> Stashed changes
 =======
         value: -56
 >>>>>>> Stashed changes

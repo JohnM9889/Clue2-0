@@ -6,11 +6,27 @@ ModelImporter:
   - first:
       74: 3374748389425109202
     second: rig|rigAction
+  - first:
+      74: -3299647678811740640
+    second: rig|rig|rig|rigAction|rig|rigAction
+  - first:
+      74: 1681966279543331737
+    second: rig|rig|rig|Walk|rig|Walk
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Edda.001
+    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Edda.003
+    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extract15.001
     second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
   - first:
       type: UnityEngine:Material
@@ -20,8 +36,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Extract25.001
+    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Extract25.003
     second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extract26.001
+    second: {fileID: 2100000, guid: 68b9c5cb1a4d0f4499533705c955b94c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -30,12 +56,27 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Hair1.001
+    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Hair1.003
     second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Pants.001
+    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Pants.003
+    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt.001
     second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
   - first:
       type: UnityEngine:Material
@@ -123,7 +164,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.044
+    globalScale: 4.4
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

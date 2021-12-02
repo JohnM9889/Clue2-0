@@ -1,44 +1,9 @@
 fileFormatVersion: 2
-guid: 3bf0a73a6bed61642a69eb90a2371203
+guid: eb23aed3658ec6840851699b3b5e4fce
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Edda.002
-    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Extract15.002
-    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Extract25.002
-    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Extract26.002
-    second: {fileID: 2100000, guid: 68b9c5cb1a4d0f4499533705c955b94c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Hair1.002
-    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Pants.002
-    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Shirt.002
-    second: {fileID: 2100000, guid: c1632dcc57c7a064fbfdfbee5cd73902, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -69,7 +34,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 4.4
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -120,7 +85,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.044
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
@@ -129,7 +94,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 

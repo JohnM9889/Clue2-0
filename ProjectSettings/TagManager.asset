@@ -12,6 +12,7 @@ TagManager:
   - Door
   - Interactive
   - InteractiveMV
+  - Waypoint
   layers:
   - Default
   - TransparentFX

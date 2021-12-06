@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Geometry/Characters/Oswald.meta
 guid: 5a04aa8b0a2a28c459e1f39b3c2aa5d5
+=======
+guid: 94c468ddc4d8e7648a1ac6009d1c834b
+>>>>>>> bd31011 (Level 4 updates):Assets/Animation/Case2/GenericDoor.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

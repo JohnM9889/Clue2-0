@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Policeman
+  m_Name: PolicemanCase2
   m_Shader: {fileID: -6465566751694194690, guid: 5f63bc517d3bfce468f2bb5fbb6aea91, type: 3}
   m_ShaderKeywords: _NORMALMAP _OCCLUSIONMAP _PARALLAXMAP
   m_LightmapFlags: 4
@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_83fed140c2e74e0e815424e60f257cb3:
-        m_Texture: {fileID: 2800000, guid: d19ed2291b9132543b028993387bc073, type: 3}
+        m_Texture: {fileID: 2800000, guid: d20ec432d09ab6a469ffc82860c6bdaf, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -56,7 +56,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexture:
-        m_Texture: {fileID: 2800000, guid: 98e6cc936f110b74da620dc0930e56b3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 00f8b831cff187b4193ff9c84149c951, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -76,7 +76,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecularMap:
-        m_Texture: {fileID: 2800000, guid: 0fcf40fb905b1f24cb8523b819351f9a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4e9ed700ae17790408bfc618a9659143, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -92,11 +92,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_499c49b308d843db95820aae35367f15: 0
+    - Vector1_499c49b308d843db95820aae35367f15: 0.001
     - Vector1_8606F96E: 0
-    - Vector1_d8fe560d2d264312847ff3ed83cc7ab7: 0.26
-    - Vector1_f607d7c091814af2b8034653ae5d8ad9: 0.6
-    - Vector1_f607d7c091814af2b8034653ae5d8ad9_1: 0.56
+    - Vector1_d8fe560d2d264312847ff3ed83cc7ab7: 10
+    - Vector1_f607d7c091814af2b8034653ae5d8ad9: 0
+    - Vector1_f607d7c091814af2b8034653ae5d8ad9_1: 0
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -114,12 +114,12 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _OutlineDepthSensitivity: 0
-    - _OutlineNormalsSensitivity: 10
-    - _OutlineThickness: 1.59
+    - _OutlineNormalsSensitivity: 3.27
+    - _OutlineThickness: 2.5
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.894
+    - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1

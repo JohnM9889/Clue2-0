@@ -12,6 +12,10 @@ TagManager:
   - Door
   - Interactive
   - InteractiveMV
+  - Waypoint
+  - Wood
+  - Tile
+  - MiscFloor
   layers:
   - Default
   - TransparentFX

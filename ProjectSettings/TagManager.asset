@@ -13,9 +13,6 @@ TagManager:
   - Interactive
   - InteractiveMV
   - Waypoint
-  - Wood
-  - Tile
-  - MiscFloor
   layers:
   - Default
   - TransparentFX
@@ -29,7 +26,7 @@ TagManager:
   - Obstacle
   - Lighted
   - OutsideFloor
-  - 
+  - StorageRoom
   - 
   - 
   - 

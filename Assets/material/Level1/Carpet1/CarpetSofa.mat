@@ -144,9 +144,9 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
-    - _OutlineDepthSensitivity: 0.243
-    - _OutlineNormalsSensitivity: 3.64
-    - _OutlineThickness: 10.41
+    - _OutlineDepthSensitivity: 1
+    - _OutlineNormalsSensitivity: 0.31
+    - _OutlineThickness: 6.89
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1

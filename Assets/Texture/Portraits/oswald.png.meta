@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: c901d9f8633c1dc409285a723376fdb8
+<<<<<<< HEAD:Assets/Images/Case5/evidence_garridebsCase.png.meta
+guid: ffaee5d805855ca41b96a3dfb4396d29
+=======
+guid: 9866e066a20146b449ecf431e64c2b0b
+>>>>>>> 9786c60 (Main Menu Polish Updates):Assets/Texture/Portraits/oswald.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

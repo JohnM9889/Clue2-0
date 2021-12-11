@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Images/Case5/evidence_article.png.meta
+guid: 14750a13b49ec554eafb083b3eff7949
+=======
 guid: 7737e8cae3230ee418191d1bd282fd3a
+>>>>>>> 9786c60 (Main Menu Polish Updates):Assets/Texture/Portraits/killer.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

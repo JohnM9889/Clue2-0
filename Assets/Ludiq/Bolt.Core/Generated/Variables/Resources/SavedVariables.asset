@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: SavedVariables
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"Level1Completed","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Level2Completed","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Level3Completed","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Level4Completed","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Level5Completed","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []

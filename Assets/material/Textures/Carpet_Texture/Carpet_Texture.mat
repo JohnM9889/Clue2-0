@@ -127,7 +127,7 @@ Material:
     - Vector1_d79f1d9e221f42f48c57f58502fa88fe: 1.17
     - Vector1_d8fe560d2d264312847ff3ed83cc7ab7: 10
     - Vector1_f607d7c091814af2b8034653ae5d8ad9: 0
-    - Vector1_f607d7c091814af2b8034653ae5d8ad9_1: 0.65
+    - Vector1_f607d7c091814af2b8034653ae5d8ad9_1: 0.2
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -145,8 +145,8 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _OutlineDepthSensitivity: 1
-    - _OutlineNormalsSensitivity: 10
-    - _OutlineThickness: 4.35
+    - _OutlineNormalsSensitivity: 6.67
+    - _OutlineThickness: 4.5
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1

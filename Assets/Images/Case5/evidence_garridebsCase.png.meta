@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:Assets/Images/Case5/evidence_garridebsCase.png.meta
-guid: ffaee5d805855ca41b96a3dfb4396d29
-=======
-guid: 9866e066a20146b449ecf431e64c2b0b
->>>>>>> 9786c60 (Main Menu Polish Updates):Assets/Texture/Portraits/oswald.png.meta
+guid: b6a2a37802fd66a419fb2e77f6b9ecfc
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -65,14 +61,14 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -84,7 +80,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0

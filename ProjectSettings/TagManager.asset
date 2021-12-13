@@ -13,6 +13,7 @@ TagManager:
   - Interactive
   - InteractiveMV
   - Waypoint
+  - Tile
   - MiscFloor
   layers:
   - Default
